@@ -1,0 +1,3 @@
+Build a make.fun entry for competition u-kevin-the-tired-dark-lord-a-100-word-villain-58b4f3cb: a 100-word villain monologue.
+
+Write a deterministic, stdlib-only program (main.py at the repository root) that writes one monologue of about 100 words to /output/entry.txt. The monologue is spoken by a fantasy villain who is secretly just very tired: the tiredness must live in the voice, the rhythm and the small deflections rather than in a plain statement that the villain is weary, and the speaker must still be a villain with a scheme and a history. The text must be UTF-8, 1 to 600 characters, and read as speakable dialogue with a turn or a sting in the last line.
